@@ -1,0 +1,26 @@
+.plyr__video-container {
+  width: 100%;
+  max-width: 800px;
+  border-radius: 10px;
+  overflow: hidden
+}
+
+.plyr--full-ui input[type=range] {
+  color: red
+}
+
+.plyr__control--overlaid {
+  background: rgba(255, 0, 0, .8)
+}
+
+.plyr__control--overlaid:hover,
+.plyr__control.plyr__tab-focus,
+.plyr__control:hover,
+.plyr__control[aria-expanded=true],
+.plyr__menu__container .plyr__control[role=menuitemradio][aria-checked=true]::before {
+  background: red
+}
+
+.plyr--video .plyr__control:hover {
+  background: 0 0
+}
