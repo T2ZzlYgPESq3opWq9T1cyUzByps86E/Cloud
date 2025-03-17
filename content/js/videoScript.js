@@ -1,1 +1,86 @@
-function _0x561d(){const _0x54dbc6=['querySelector','#player','Year','<div\x20class=\x27psImg\x20grImg\x27>','.videoInformation','984xFfykJ','poster','\x27/>','4401030xHCJhH','Images','quality','isSupported','</span></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27R\x27><small>Writers</small><span>','[iYECCZSQydUZgunuZXUHFjpyCCfgWSnyYPfMOABZNdAZXf]','mute','progress','{}.constructor(\x22return\x20this\x22)(\x20)','[JQvRNqrBeMcQThVjPxqRPJDCjIrCP]','155VnuBcB','attachMedia','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27pInfo\x20pPad\x27>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27L\x27><small>Director</small><span>','video','23443ZyXFrb','createElement','Company','indexOf','fromCharCode','play-large','source','Events','split','</div>','5162148gHvMkj','\x27\x20src=\x27','Country','</span></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27R\x27><small>Company</small><span>','play','3205431zYDCTf','3620hAazmA','</span></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27R\x27><small>Copyright</small><span>','src','appendChild','</span></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27R\x27><small>Genres</small><span>','ImageAlt','controls','current-time','loadedmetadata','volume','</span></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27pInfo\x20pPad\x27>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27L\x27><small>Stars</small><span>','Stars','1FfXPGM','return\x20(function()\x20','<img\x20alt=\x27','Language','length','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','</span></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27pInfo\x20pPad\x27>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27L\x27><small>Runtime</small><span>','speed','slice','loadSource','canPlayType','application/x-mpegURL','fullscreen','MANIFEST_PARSED','forEach','1767352QIyLZR','DOMContentLoaded','apply','42352860dMsgKM','addEventListener','JaQvRNbqroBeut:MbcQThlVajnkPxqRPJDCjIrCP','replace','Genres','Writers','.video','</span></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h6>Stills</h6>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'];_0x561d=function(){return _0x54dbc6;};return _0x561d();}function _0x12da(_0x4c6e00,_0x40152e){const _0x2e8758=_0x561d();return _0x12da=function(_0x3ca09f,_0xbe745d){_0x3ca09f=_0x3ca09f-0xb7;let _0xfb95f2=_0x2e8758[_0x3ca09f];return _0xfb95f2;},_0x12da(_0x4c6e00,_0x40152e);}const _0x1edbaf=_0x12da;(function(_0x2f0bf3,_0x215239){const _0x5079fe=_0x12da,_0x2f721e=_0x2f0bf3();while(!![]){try{const _0x2e1719=parseInt(_0x5079fe(0xd0))/0x1*(-parseInt(_0x5079fe(0xdf))/0x2)+-parseInt(_0x5079fe(0xbe))/0x3+parseInt(_0x5079fe(0xc4))/0x4*(parseInt(_0x5079fe(0xfc))/0x5)+-parseInt(_0x5079fe(0xf2))/0x6+-parseInt(_0x5079fe(0x100))/0x7*(parseInt(_0x5079fe(0xef))/0x8)+parseInt(_0x5079fe(0xc3))/0x9+parseInt(_0x5079fe(0xe2))/0xa;if(_0x2e1719===_0x215239)break;else _0x2f721e['push'](_0x2f721e['shift']());}catch(_0x57a67f){_0x2f721e['push'](_0x2f721e['shift']());}}}(_0x561d,0xd452c));const _0xbe745d=(function(){let _0x116b46=!![];return function(_0x172962,_0x5089d6){const _0x397f54=_0x116b46?function(){const _0x1a7065=_0x12da;if(_0x5089d6){const _0x203c97=_0x5089d6[_0x1a7065(0xe1)](_0x172962,arguments);return _0x5089d6=null,_0x203c97;}}:function(){};return _0x116b46=![],_0x397f54;};}()),_0x3ca09f=_0xbe745d(this,function(){const _0x12cedf=_0x12da;let _0x45338b;try{const _0x5a7434=Function(_0x12cedf(0xd1)+_0x12cedf(0xfa)+');');_0x45338b=_0x5a7434();}catch(_0x3177e1){_0x45338b=window;}const _0x1008cd=new RegExp(_0x12cedf(0xf7),'g'),_0x517e42='iwatcYh.meErCCaZSQzalydUZvege.cuonmuZXUHFjpyCCfgWSnyYPfMOABZNdAZXf'[_0x12cedf(0xe5)](_0x1008cd,'')[_0x12cedf(0xbc)](';');let _0x138e51,_0x42805e,_0x535fae,_0x17f98a;const _0x247d1d=function(_0x313e98,_0x2cddf8,_0x3c7bbe){const _0x38c85a=_0x12cedf;if(_0x313e98[_0x38c85a(0xd4)]!=_0x2cddf8)return![];for(let _0x37c111=0x0;_0x37c111<_0x2cddf8;_0x37c111++){for(let _0x494a5d=0x0;_0x494a5d<_0x3c7bbe[_0x38c85a(0xd4)];_0x494a5d+=0x2){if(_0x37c111==_0x3c7bbe[_0x494a5d]&&_0x313e98['charCodeAt'](_0x37c111)!=_0x3c7bbe[_0x494a5d+0x1])return![];}}return!![];},_0x2ea810=function(_0x4a5900,_0x446c23,_0x590e14){return _0x247d1d(_0x446c23,_0x590e14,_0x4a5900);},_0x511f1c=function(_0x43e536,_0x3fd35f,_0x53b663){return _0x2ea810(_0x3fd35f,_0x43e536,_0x53b663);},_0x4ab67d=function(_0x2a3975,_0x4bafb1,_0x5c3a2e){return _0x511f1c(_0x4bafb1,_0x5c3a2e,_0x2a3975);};for(let _0x584c13 in _0x45338b){if(_0x247d1d(_0x584c13,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x138e51=_0x584c13;break;}}for(let _0xb0d487 in _0x45338b[_0x138e51]){if(_0x4ab67d(0x6,_0xb0d487,[0x5,0x6e,0x0,0x64])){_0x42805e=_0xb0d487;break;}}for(let _0x2f2bc5 in _0x45338b[_0x138e51]){if(_0x511f1c(_0x2f2bc5,[0x7,0x6e,0x0,0x6c],0x8)){_0x535fae=_0x2f2bc5;break;}}if(!('~'>_0x42805e))for(let _0x332ae0 in _0x45338b[_0x138e51][_0x535fae]){if(_0x2ea810([0x7,0x65,0x0,0x68],_0x332ae0,0x8)){_0x17f98a=_0x332ae0;break;}}if(!_0x138e51||!_0x45338b[_0x138e51])return;const _0x2edfad=_0x45338b[_0x138e51][_0x42805e],_0x5cc4f8=!!_0x45338b[_0x138e51][_0x535fae]&&_0x45338b[_0x138e51][_0x535fae][_0x17f98a],_0x142575=_0x2edfad||_0x5cc4f8;if(!_0x142575)return;let _0x397fbd=![];for(let _0x504297=0x0;_0x504297<_0x517e42[_0x12cedf(0xd4)];_0x504297++){const _0x10d306=_0x517e42[_0x504297],_0x243e84=_0x10d306[0x0]===String[_0x12cedf(0xb8)](0x2e)?_0x10d306[_0x12cedf(0xd8)](0x1):_0x10d306,_0x2fbfc4=_0x142575['length']-_0x243e84['length'],_0xe55ce8=_0x142575[_0x12cedf(0xb7)](_0x243e84,_0x2fbfc4),_0x11d6a4=_0xe55ce8!==-0x1&&_0xe55ce8===_0x2fbfc4;_0x11d6a4&&((_0x142575[_0x12cedf(0xd4)]==_0x10d306[_0x12cedf(0xd4)]||_0x10d306['indexOf']('.')===0x0)&&(_0x397fbd=!![]));}if(!_0x397fbd){const _0x533b83=new RegExp(_0x12cedf(0xfb),'g'),_0x58175d=_0x12cedf(0xe4)[_0x12cedf(0xe5)](_0x533b83,'');_0x45338b[_0x138e51][_0x535fae]=_0x58175d;}});_0x3ca09f(),document[_0x1edbaf(0xe3)](_0x1edbaf(0xe0),()=>{const _0x41c8d2=_0x1edbaf,_0x2ffa19=document[_0x41c8d2(0xea)](_0x41c8d2(0xe8)),_0x38e2c2=document[_0x41c8d2(0x101)](_0x41c8d2(0xff));_0x38e2c2['id']='player',_0x38e2c2[_0x41c8d2(0xca)]=!![],_0x38e2c2[_0x41c8d2(0xf0)]=posterSrc;const _0x531736=document[_0x41c8d2(0x101)](_0x41c8d2(0xba));_0x531736[_0x41c8d2(0xc6)]=videoSrc,_0x531736['type']=_0x41c8d2(0xdb),_0x38e2c2[_0x41c8d2(0xc7)](_0x531736),_0x2ffa19['appendChild'](_0x38e2c2);const _0x240876=new Plyr(_0x41c8d2(0xeb),{'controls':[_0x41c8d2(0xb9),_0x41c8d2(0xc2),_0x41c8d2(0xf9),_0x41c8d2(0xcb),_0x41c8d2(0xf8),_0x41c8d2(0xcd),'settings',_0x41c8d2(0xdc)],'settings':[_0x41c8d2(0xf4),_0x41c8d2(0xd7)],'ratio':'16:9','autoplay':!![],'muted':![]});if(Hls[_0x41c8d2(0xf5)]()){const _0xba0cf0=new Hls();_0xba0cf0[_0x41c8d2(0xd9)](videoSrc),_0xba0cf0[_0x41c8d2(0xfd)](_0x38e2c2),_0xba0cf0['on'](Hls[_0x41c8d2(0xbb)][_0x41c8d2(0xdd)],()=>{const _0x5d9d12=_0x41c8d2;_0x240876[_0x5d9d12(0xc2)]();});}else _0x38e2c2[_0x41c8d2(0xda)]('application/vnd.apple.mpegurl')&&(_0x38e2c2[_0x41c8d2(0xc6)]=videoSrc,_0x38e2c2[_0x41c8d2(0xe3)](_0x41c8d2(0xcc),()=>{const _0x32f2e7=_0x41c8d2;_0x240876[_0x32f2e7(0xc2)]();}));}),document[_0x1edbaf(0xe3)]('DOMContentLoaded',function(){function _0x4f9174(_0x28db94){const _0x2883be=_0x12da,_0x45e829=document['querySelector'](_0x2883be(0xee));let _0x2a378c=_0x2883be(0xed);_0x28db94[_0x2883be(0xf3)][_0x2883be(0xde)](_0x381d23=>{const _0x4be914=_0x2883be;_0x2a378c+=_0x4be914(0xd2)+_0x28db94[_0x4be914(0xc9)]+_0x4be914(0xbf)+_0x381d23+_0x4be914(0xf1);}),_0x2a378c+=_0x2883be(0xbd),_0x45e829['innerHTML']='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>'+_0x28db94['Description']+_0x2883be(0xfe)+_0x28db94['Director']+_0x2883be(0xf6)+_0x28db94[_0x2883be(0xe7)]+_0x2883be(0xce)+_0x28db94[_0x2883be(0xcf)]+_0x2883be(0xc8)+_0x28db94[_0x2883be(0xe6)]+'</span></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27pInfo\x20pPad\x27>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27L\x27><small>Country</small><span>'+_0x28db94[_0x2883be(0xc0)]+'</span></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27R\x27><small>Language</small><span>'+_0x28db94[_0x2883be(0xd3)]+'</span></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27pInfo\x20pPad\x27>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x27L\x27><small>Year</small><span>'+_0x28db94[_0x2883be(0xec)]+_0x2883be(0xc1)+_0x28db94[_0x2883be(0x102)]+_0x2883be(0xd6)+_0x28db94['Runtime']+_0x2883be(0xc5)+_0x28db94['Copyright']+_0x2883be(0xe9)+_0x2a378c+_0x2883be(0xd5);}_0x4f9174(videoData);});
+document.addEventListener('DOMContentLoaded', () => {
+	const videoContainer = document.querySelector('.video');
+
+	const video = document.createElement('video');
+	video.id = 'player';
+	video.controls = true;
+	video.poster = posterSrc;
+
+	const source = document.createElement('source');
+	source.src = videoSrc;
+	source.type = 'application/x-mpegURL';
+
+	video.appendChild(source);
+	videoContainer.appendChild(video);
+
+	const player = new Plyr('#player', {
+		controls: [
+			'play-large', 'play', 'progress', 'current-time',
+			'mute', 'volume', 'settings', 'fullscreen',
+		],
+		settings: ['quality', 'speed'],
+		ratio: '16:9',
+		autoplay: true,
+		muted: false,
+	});
+
+	if (Hls.isSupported()) {
+		const hls = new Hls();
+		hls.loadSource(videoSrc);
+		hls.attachMedia(video);
+		hls.on(Hls.Events.MANIFEST_PARSED, () => {
+			player.play();
+		});
+	} else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+		video.src = videoSrc;
+		video.addEventListener('loadedmetadata', () => {
+			player.play();
+		});
+	}
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+	function createPost(data) {
+		const container = document.querySelector(".videoInformation");
+
+
+		let imageGallery = `<div class='psImg grImg'>`;
+		data.Images.forEach(img => {
+			imageGallery += `<img alt='${data.ImageAlt}' src='${img}'/>`;
+		});
+		imageGallery += `</div>`;
+
+
+		container.innerHTML = `
+                <p>${data.Description}</p>
+                    <div class='pInfo pPad'>
+                        <div class='L'><small>Director</small><span>${data.Director}</span></div>
+                        <div class='R'><small>Writers</small><span>${data.Writers}</span></div>
+                    </div>
+
+                    <div class='pInfo pPad'>
+                        <div class='L'><small>Stars</small><span>${data.Stars}</span></div>
+                        <div class='R'><small>Genres</small><span>${data.Genres}</span></div>
+                    </div>
+
+                    <div class='pInfo pPad'>
+                        <div class='L'><small>Country</small><span>${data.Country}</span></div>
+                        <div class='R'><small>Language</small><span>${data.Language}</span></div>
+                    </div>
+
+                    <div class='pInfo pPad'>
+                        <div class='L'><small>Year</small><span>${data.Year}</span></div>
+                        <div class='R'><small>Company</small><span>${data.Company}</span></div>
+                    </div>
+
+                    <div class='pInfo pPad'>
+                        <div class='L'><small>Runtime</small><span>${data.Runtime}</span></div>
+                        <div class='R'><small>Copyright</small><span>${data.Copyright}</span></div>
+                    </div>
+                    <h6>Stills</h6>
+                    ${imageGallery}
+                `;
+	}
+
+	createPost(videoData);
+});
