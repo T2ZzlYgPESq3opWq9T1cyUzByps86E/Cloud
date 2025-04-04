@@ -1,0 +1,21 @@
+{
+  "name": "The Best Downloader for MOD APK files",
+  "short_name": "Alvee Play",
+  "description": "Alvee Play offers a safe and trusted platform for downloading the best modded games and premium apps for Android devices worldwide.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F1F5FB",
+  "theme_color": "#F1F5FB",
+  "icons": [
+    {
+      "src": "https://open.merazalvee.com/favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://open.merazalvee.com/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
