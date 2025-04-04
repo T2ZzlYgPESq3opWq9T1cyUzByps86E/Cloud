@@ -3,9 +3,9 @@
   "short_name": "Alvee Play",
   "description": "Alvee Play offers a safe and trusted platform for downloading the best modded games and premium apps for Android devices worldwide.",
   "start_url": "/",
-  "display": "standalone",
-  "background_color": "#F1F5FB",
-  "theme_color": "#F1F5FB",
+  "display": "standalone",  // Make sure this is set to "standalone" to run as a native app.
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
   "icons": [
     {
       "src": "https://open.merazalvee.com/favicon.ico",
@@ -13,7 +13,7 @@
       "type": "image/png"
     },
     {
-      "src": "https://open.merazalvee.com/icons/icon-512x512.png",
+      "src": "https://open.merazalvee.com/favicon.ico",
       "sizes": "512x512",
       "type": "image/png"
     }
